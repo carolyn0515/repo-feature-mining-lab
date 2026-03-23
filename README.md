@@ -163,27 +163,3 @@ Raw Key 수준의 Feature를 실제 분석 및 모델링이 가능한 구조로 
 
 ---
 
-## 기술 스택
-
-* Python
-* GitHub REST API
-* pandas
-* Recursive JSON Parsing
-* Logical Feature Selection Framework
-
----
-
-## 프로젝트 성격
-
-본 프로젝트는 **연구 및 실습 중심의 분석 프로토타입 프로젝트**이다.
-
-목적은 다음과 같다.
-
-* 데이터 마이닝 파이프라인 설계 능력 강화
-* Feature Discovery 과정의 논리적 구조화
-* Repository 데이터 행동 신호 이해
-
-따라서 Production System 구축이 아니라
-**분석 설계 역량 향상을 위한 실험적 프로젝트**로 정의된다.
-
----
