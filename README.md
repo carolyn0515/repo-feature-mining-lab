@@ -1,4 +1,4 @@
-# Repository Feature Mining Pipeline (Practice Project)
+# Repository Feature Mining Pipeline (SAMPLE Project)
 
 본 저장소는 오픈소스 Repository의 건강도(Health)를 정량적으로 분석하기 위한
 **Feature Discovery 및 Data Mining 파이프라인을 체계적으로 설계하고 실험하는 프로젝트**이다.
